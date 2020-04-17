@@ -1,5 +1,5 @@
 {
-  "name": "vue-not-lazy",
+  "name": "workspace-bug",
   "version": "0.1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -20,14 +20,11 @@
     "eslint-plugin-vue": "^6.2.2"
   },
   "dependencies": {
-    "awesome-phonenumber": "^2.30.0",
     "core-js": "^3.6.4",
     "eslint-plugin-html": "^6.0.0",
     "sass": "^1.26.3",
     "sass-loader": "^8.0.2",
-    "vee-validate": "^3.2.5",
     "vue": "^2.6.11",
-    "vue-router": "^3.1.6",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
