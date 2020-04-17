@@ -1,1 +1,1 @@
-# workspaces-bug
+yarn && yarn serve
